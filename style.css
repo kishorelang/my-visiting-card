@@ -1,0 +1,35 @@
+body{
+    display:flex;
+   flex-direction: column; 
+   justify-content: center;
+   align-items: center;
+   background-color:peachpuff ;
+
+
+  font-family: "Playwrite CZ", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.social-links{
+    display: flex;
+    list-style-type:none;
+    justify-content: space-around;
+
+}
+.social-image{
+    width:4rem ;
+       color: blueviolet;
+       padding: 30px;
+}
+.mycontainer
+{
+ background-color: aquamarine;
+ display: flex;
+ justify-content: center;
+ align-items:center;
+ flex-direction:column;
+ padding: 5rem;
+ margin: 2rem;
+ border:solid 1rem black;
+}
